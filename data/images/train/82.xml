@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>82.jpg</filename>
+	<path>/home/ragnarock/Music/hong/data/images/82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1020</width>
+		<height>574</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>470</xmin>
+			<ymin>4</ymin>
+			<xmax>569</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

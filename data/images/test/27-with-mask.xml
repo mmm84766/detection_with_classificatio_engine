@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>27-with-mask.jpg</filename>
+	<path>/home/ragnarock/Music/hong/data/images/27-with-mask.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>17</ymin>
+			<xmax>303</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>
