@@ -1,7 +1,7 @@
 # Object Detection and Classification
 
 
-###Object Detection
+## Object Detection
 
 Object detection takes a captured image as input and produces the bounding boxes as the output to be fed into the classification model. We use TensorFlow Object Detection API, which is an open source framework built on top of TensorFlow to construct, train and deploy object detection models. The Object Detection API also comes with a collection of detection models pre-trained on the COCO dataset that are well suited for fast prototyping. Specifically, we use a lightweight model: ```ssd_mobilenet_v1_coco``` that is based on Single Shot Multibox Detection (SSD) framework with minimal modification.  Though this is a general-purpose detection model (not optimized specifically for object detection), we find this model sufficiently met our needs, achieving the balance between good bounding box accuracy (as shown in the following figure) and fast running time.
 
